@@ -7,7 +7,7 @@
 
 ![Interface Screenshot](./images/userinterface.png)
 
-## ElementMaster can help you:
+## Usage Examples:
 
 - :eyes:Model: You can add models by drawing with the mouse or manually setting the coordinates. After modeling, please remember to add Poisson's ratio and Elasticity modulus of the material. 
 
@@ -17,7 +17,10 @@
 
 - :raised_back_of_hand:Generate Stress-Strain Contour Plot: Generate a stress-strain contour plot by clicking the related button.
 
-Please note that the the project is develped in Qt Creator 9.0.2.
+- :hankey: Deletion of Existing Models: After the calculations are complete, you have the option to delete the existing models.
+- :robot: User Log: The software keeps a log to record user operations and actions.
+
+Please note that the the project is develped in **Qt Creator 9.0.2**.
 
 ## Contact
 
