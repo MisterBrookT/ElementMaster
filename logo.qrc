@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>calculate.png</file>
+        <file>calculate1.png</file>
+        <file>circle.png</file>
+        <file>cloudy.png</file>
+        <file>constrain.png</file>
+        <file>delete.png</file>
+        <file>displacement.png</file>
+        <file>Edit.png</file>
+        <file>force.png</file>
+        <file>force1.png</file>
+        <file>material.png</file>
+        <file>mesh.png</file>
+        <file>rectangle.png</file>
+        <file>submit.png</file>
+        <file>tubiao.ico</file>
+        <file>X.png</file>
+        <file>X1.png</file>
+        <file>Y.png</file>
+        <file>Y1.png</file>
+    </qresource>
+</RCC>
