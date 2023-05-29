@@ -7,7 +7,14 @@
 
 ![Interface Screenshot](./images/userinterface.png)
 
-## Usage Examples:
+## Directory Structure
+- `images`: This folder contains images used in the project, such as screenshots or icons.
+
+- `qt`: This folder contains the QT code files, this is where you can find the implementation of the software's functionalities.
+
+- `README.md`: This is the README file that provides information about the project, including the directory structure and usage instructions.
+
+## Functionality:
 
 - :eyes:Model: You can add models by drawing with the mouse or manually setting the coordinates. After modeling, please remember to add Poisson's ratio and Elasticity modulus of the material. 
 
