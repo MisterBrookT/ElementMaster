@@ -1,5 +1,4 @@
-
-<div style="text-align: center;">
+<div align="center">
   <img src="./images/tubiao.ico" alt="Project Icon" width="150" height="150">
   <h2><strong>A simple Software for Finite Element Method</strong></h2>
 </div>
